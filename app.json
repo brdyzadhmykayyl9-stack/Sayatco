@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "گروه صنعتی سایات",
+    "slug": "sayat-custom",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.sayatco.custom",
+      "versionCode": 2
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    },
+    "icon": "./assets/sayat-logo.png",
+    "splash": {
+      "image": "./assets/sayat-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#07142e"
+    }
+  }
+}
